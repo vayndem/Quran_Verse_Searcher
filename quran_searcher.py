@@ -4,7 +4,7 @@ from google.genai import types
 import webbrowser
 
 # Konfigurasi API
-API_KEY = st.secrets["API_KEY"]
+API_KEY = "AIzaSyCx7Ol_6gHNDIp28JqNcEYStfHAXfPZ3_4"
 
 
 def generate_response(x):
